@@ -1,0 +1,105 @@
+// lesson.dart
+import 'package:flutter/material.dart';
+import 'package:quiz_basic_app/pages/safe_scaffold.dart';
+import 'content.dart';
+
+class LessonPage extends StatelessWidget {
+  final String className;
+  final String subject;
+
+  LessonPage({required this.className, required this.subject});
+
+  // Dummy lessons list (5 lessons)
+  final List<String> lessons = List.generate(5, (index) => "Lesson ${index + 1}");
+
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      // Background color added
+      backgroundColor: const Color.fromARGB(255, 233, 224, 223),
+
+      appBar: AppBar(
+        title: Text(
+          "$className - $subject",
+          style: TextStyle(
+            fontSize: 20,
+            fontWeight: FontWeight.bold,
+            color: Colors.white,
+          ),
+        ),
+       // backgroundColor: const Color.fromARGB(255, 81, 60, 134),
+        backgroundColor: const Color.fromARGB(255, 37, 75, 107),
+
+        leading: IconButton(
+          icon: Icon(Icons.arrow_back, color: Colors.white),
+          onPressed: () {
+            Navigator.pop(context);
+          },
+        ),
+      ),
+
+      // Body wrapped in SafeArea
+      body: SafeArea(
+        child: Stack(
+          children: [
+            
+            Padding(
+              padding: EdgeInsets.all(16.0),
+              child: ListView.builder(
+                itemCount: lessons.length,
+                itemBuilder: (context, index) {
+                  final lessonName = lessons[index];
+                  return Card(
+                    margin: EdgeInsets.symmetric(vertical: 8),
+                    child: ListTile(
+                      leading: Icon(Icons.book, color: Colors.blue),
+                      title: Text(
+                        lessonName,
+                        style: TextStyle(
+                          fontSize: 18,
+                          fontWeight: FontWeight.w500,
+                        ),
+                      ),
+                      onTap: () {
+                        Navigator.push(
+                          context,
+                          MaterialPageRoute(
+                            builder: (_) => LessonContentPage(
+                              className: className,
+                              subject: subject,
+                              lesson: lessonName,
+                            ),
+                          ),
+                        );
+                      },
+                    ),
+                  );
+                },
+              ),
+            ),
+
+            // Floating oval image bottom-right
+            Positioned(
+              bottom: 20,
+              right: 20,
+              child: GestureDetector(
+                onTap: () {
+                  //print("hello");
+                },
+                child: ClipRRect(
+                  borderRadius: BorderRadius.circular(40),
+                  child: Image.asset(
+                    "assets/images/kkk.png",
+                    width: 200,
+                    height: 150,
+                    fit: BoxFit.cover,
+                  ),
+                ),
+              ),
+            ),
+          ],
+        ),
+      ),
+    );
+  }
+}

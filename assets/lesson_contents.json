@@ -1,0 +1,2734 @@
+{
+  "Class 1": {
+    "Math": {
+      "Lesson 1": {
+        "image": "assets/images/math1.png",
+        "topics": [
+          {
+            "heading": "Numbers: 1 to 10",
+            "content": [
+              "Numbers are a way to count things. Let's learn to count from 1 to 10: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10."
+            ]
+          }
+        ],
+        "important": [
+          "Practice writing numbers every day.",
+          "Count objects around you like toys or fruits."
+        ]
+      },
+      "Lesson 2": {
+        "image": "assets/images/math1.png",
+        "topics": [
+          {
+            "heading": "Addition: Simple Sums",
+            "content": [
+              "Addition means putting things together. The symbol for addition is '+'.",
+              "Example: 1 apple + 1 apple = 2 apples."
+            ]
+          }
+        ],
+        "important": [
+          "Practice simple addition with your fingers or small objects."
+        ]
+      },
+      "Lesson 3": {
+        "image": "assets/images/math1.png",
+        "topics": [
+          {
+            "heading": "Subtraction: Taking Away",
+            "content": [
+              "Subtraction means taking away. The symbol for subtraction is '-'.",
+              "Example: 3 balls - 1 ball = 2 balls."
+            ]
+          }
+        ],
+        "important": [
+          "You can use a number line to help with subtraction."
+        ]
+      },
+      "Lesson 4": {
+        "image": "assets/images/math1.png",
+        "topics": [
+          {
+            "heading": "Shapes and Colors",
+            "content": [
+              "We see many shapes around us. Let's learn about circles, squares, triangles, and rectangles.",
+              "We also see many colors. Let's learn to name some of them like red, blue, green, and yellow."
+            ]
+          }
+        ],
+        "important": [
+          "Look around your room and find objects of different shapes and colors."
+        ]
+      },
+      "Lesson 5": {
+        "image": "assets/images/math1.png",
+        "topics": [
+          {
+            "heading": "Counting Money",
+            "content": [
+              "Money is used to buy things. We have coins and notes.",
+              "Let's learn to count coins like 1 rupee, 2 rupees, and 5 rupees."
+            ]
+          }
+        ],
+        "important": [
+          "Practice counting money with your parents."
+        ]
+      }
+    },
+    "Science": {
+      "Lesson 1": {
+        "image": "assets/images/science1.png",
+        "topics": [
+          {
+            "heading": "My Body",
+            "content": [
+              "Our body has many parts. Each part has a name and a job.",
+              "We have eyes to see, ears to hear, a nose to smell, a tongue to taste, and hands to touch."
+            ]
+          }
+        ],
+        "important": [
+          "Taking care of our body is important. Eat healthy food and play outside."
+        ]
+      },
+      "Lesson 2": {
+        "image": "assets/images/science1.png",
+        "topics": [
+          {
+            "heading": "Living and Non-Living Things",
+            "content": [
+              "Living things can grow, eat, move, and breathe. Non-living things cannot.",
+              "Plants and animals are living things. A table and a ball are non-living things."
+            ]
+          }
+        ],
+        "important": [
+          "All living things need water and air to survive."
+        ]
+      },
+      "Lesson 3": {
+        "image": "assets/images/science1.png",
+        "topics": [
+          {
+            "heading": "Animals and Their Homes",
+            "content": [
+              "Animals live in different homes. A lion lives in a den, and a bird lives in a nest.",
+              "Some animals are pets, and some are wild."
+            ]
+          }
+        ],
+        "important": [
+          "Animals are our friends. We should be kind to them."
+        ]
+      },
+      "Lesson 4": {
+        "image": "assets/images/science1.png",
+        "topics": [
+          {
+            "heading": "Plants Around Us",
+            "content": [
+              "Plants are very important. They give us food and fresh air.",
+              "A plant has many parts: roots, stem, leaves, and flowers."
+            ]
+          }
+        ],
+        "important": [
+          "We must water plants to help them grow."
+        ]
+      },
+      "Lesson 5": {
+        "image": "assets/images/science1.png",
+        "topics": [
+          {
+            "heading": "The Sun, Moon, and Stars",
+            "content": [
+              "The sun gives us light and heat. The moon shines at night. We can also see many stars at night."
+            ]
+          }
+        ],
+        "important": [
+          "Never look directly at the sun. It can harm your eyes."
+        ]
+      }
+    },
+    "GK": {
+      "Lesson 1": {
+        "image": "assets/images/gk1.png",
+        "topics": [
+          {
+            "heading": "About Me and My Family",
+            "content": [
+              "This lesson is about you! What is your name? How old are you? Who is in your family?",
+              "Families can be big or small, but they are all special."
+            ]
+          }
+        ],
+        "important": [
+          "Know your full name and your parents' names."
+        ]
+      },
+      "Lesson 2": {
+        "image": "assets/images/gk1.png",
+        "topics": [
+          {
+            "heading": "Our Helpers",
+            "content": [
+              "Many people help us in our daily lives. A doctor helps us when we are sick. A policeman keeps us safe."
+            ]
+          }
+        ],
+        "important": [
+          "Always be polite and thankful to our helpers."
+        ]
+      },
+      "Lesson 3": {
+        "image": "assets/images/gk1.png",
+        "topics": [
+          {
+            "heading": "Seasons",
+            "content": [
+              "There are different seasons in a year: summer, winter, and monsoon. We wear different clothes in each season."
+            ]
+          }
+        ],
+        "important": [
+          "Summer is hot, winter is cold, and it rains a lot in monsoon."
+        ]
+      },
+      "Lesson 4": {
+        "image": "assets/images/gk1.png",
+        "topics": [
+          {
+            "heading": "My Country, My Flag",
+            "content": [
+              "Our country's name is India. Our national flag has three colors: saffron, white, and green.",
+              "It is called the Tiranga."
+            ]
+          }
+        ],
+        "important": [
+          "Respect your national flag and country."
+        ]
+      },
+      "Lesson 5": {
+        "image": "assets/images/gk1.png",
+        "topics": [
+          {
+            "heading": "Festivals",
+            "content": [
+              "We celebrate many festivals like Diwali, Holi, and Eid.",
+              "Festivals are a time for fun and being with family."
+            ]
+          }
+        ],
+        "important": [
+          "Diwali is the festival of lights. Holi is the festival of colors."
+        ]
+      }
+    },
+    "Computer": {
+      "Lesson 1": {
+        "image": "assets/images/computer1.png",
+        "topics": [
+          {
+            "heading": "What is a Computer?",
+            "content": [
+              "A computer is a smart machine. It helps us draw, play games, and watch cartoons."
+            ]
+          }
+        ],
+        "important": [
+          "A computer can work very fast if we tell it what to do."
+        ]
+      },
+      "Lesson 2": {
+        "image": "assets/images/computer1.png",
+        "topics": [
+          {
+            "heading": "Parts of a Computer",
+            "content": [
+              "A computer has different parts like a monitor, a keyboard, and a mouse.",
+              "The monitor looks like a TV screen."
+            ]
+          }
+        ],
+        "important": [
+          "The keyboard is used to type letters and numbers."
+        ]
+      },
+      "Lesson 3": {
+        "image": "assets/images/computer1.png",
+        "topics": [
+          {
+            "heading": "Using a Mouse and Keyboard",
+            "content": [
+              "The mouse is used to point and click on the screen. The keyboard is used for typing.",
+              "Practice using both to play simple games."
+            ]
+          }
+        ],
+        "important": [
+          "Hold the mouse gently with your hand."
+        ]
+      },
+      "Lesson 4": {
+        "image": "assets/images/computer1.png",
+        "topics": [
+          {
+            "heading": "Computer Etiquette",
+            "content": [
+              "It's important to use a computer properly. Don't eat or drink near it.",
+              "Always shut down the computer when you are done."
+            ]
+          }
+        ],
+        "important": [
+          "Ask a grown-up for help if you don't know what to do."
+        ]
+      },
+      "Lesson 5": {
+        "image": "assets/images/computer1.png",
+        "topics": [
+          {
+            "heading": "Fun with Computers",
+            "content": [
+              "You can draw and color pictures using a computer. You can also listen to music and watch fun videos."
+            ]
+          }
+        ],
+        "important": [
+          "Learning about computers is fun and useful!"
+        ]
+      }
+    },
+    "English": {
+      "Lesson 1": {
+        "image": "assets/images/english1.png",
+        "topics": [
+          {
+            "heading": "The Alphabet",
+            "content": [
+              "The English alphabet has 26 letters, from A to Z.",
+              "We use these letters to make words."
+            ]
+          }
+        ],
+        "important": [
+          "Learn to write both capital and small letters."
+        ]
+      },
+      "Lesson 2": {
+        "image": "assets/images/english1.png",
+        "topics": [
+          {
+            "heading": "Vowels and Consonants",
+            "content": [
+              "There are 5 special letters called vowels: A, E, I, O, U.",
+              "All the other letters are consonants."
+            ]
+          }
+        ],
+        "important": [
+          "Vowels are the building blocks of most words."
+        ]
+      },
+      "Lesson 3": {
+        "image": "assets/images/english1.png",
+        "topics": [
+          {
+            "heading": "Words and Sentences",
+            "content": [
+              "A word is a group of letters that has a meaning. A sentence is a group of words that makes complete sense."
+            ]
+          }
+        ],
+        "important": [
+          "A sentence always starts with a capital letter and ends with a full stop."
+        ]
+      },
+      "Lesson 4": {
+        "image": "assets/images/english1.png",
+        "topics": [
+          {
+            "heading": "Nouns: Naming Words",
+            "content": [
+              "A noun is a naming word. It names a person, place, animal, or thing.",
+              "Examples: boy, school, dog, table."
+            ]
+          }
+        ],
+        "important": [
+          "All nouns are important parts of a sentence."
+        ]
+      },
+      "Lesson 5": {
+        "image": "assets/images/english1.png",
+        "topics": [
+          {
+            "heading": "Action Words: Verbs",
+            "content": [
+              "A verb is an action word. It tells us what the noun is doing.",
+              "Examples: run, jump, sing, eat."
+            ]
+          }
+        ],
+        "important": [
+          "Every sentence must have a verb."
+        ]
+      }
+    },
+    "Hindi": {
+      "Lesson 1": {
+        "image": "assets/images/hindi1.png",
+        "topics": [
+          {
+            "heading": "वर्णमाला",
+            "content": [
+              "हिंदी वर्णमाला में स्वर (vowels) और व्यंजन (consonants) होते हैं।",
+              "अ, आ, इ, ई... ये स्वर हैं।"
+            ]
+          }
+        ],
+        "important": [
+          "स्वर का उच्चारण बिना किसी दूसरे वर्ण की मदद के होता है।"
+        ]
+      },
+      "Lesson 2": {
+        "image": "assets/images/hindi1.png",
+        "topics": [
+          {
+            "heading": "दो अक्षरों वाले शब्द",
+            "content": [
+              "दो अक्षरों को मिलाकर हम नए शब्द बना सकते हैं।",
+              "जैसे: 'क'+'ल' = 'कल', 'ज'+'ल' = 'जल'।"
+            ]
+          }
+        ],
+        "important": [
+          "नए-नए शब्द बनाकर पढ़ने का अभ्यास करें।"
+        ]
+      },
+      "Lesson 3": {
+        "image": "assets/images/hindi1.png",
+        "topics": [
+          {
+            "heading": "मात्राएँ",
+            "content": [
+              "व्यंजन के साथ स्वर की मात्राएँ लगाने से नए शब्द बनते हैं।",
+              "जैसे: 'क' + 'ा' = 'का'।"
+            ]
+          }
+        ],
+        "important": [
+          "मात्राओं को पहचानना और सही से लगाना सीखें।"
+        ]
+      },
+      "Lesson 4": {
+        "image": "assets/images/hindi1.png",
+        "topics": [
+          {
+            "heading": "शब्दों का खेल",
+            "content": [
+              "हम अक्षरों और मात्राओं से कई मजेदार शब्द बना सकते हैं।",
+              "जैसे: 'म' + 'ा' + 'ल' + 'ा' = 'माला'।"
+            ]
+          }
+        ],
+        "important": [
+          "जितना ज्यादा अभ्यास करेंगे, उतनी आसानी होगी।"
+        ]
+      },
+      "Lesson 5": {
+        "image": "assets/images/hindi1.png",
+        "topics": [
+          {
+            "heading": "छोटे वाक्य",
+            "content": [
+              "शब्दों को मिलाकर छोटे-छोटे वाक्य बनाना सीखें।",
+              "जैसे: 'राम घर जा रहा है'।"
+            ]
+          }
+        ],
+        "important": [
+          "वाक्य हमेशा किसी बात को पूरा बताता है।"
+        ]
+      }
+    }
+  },
+  "Class 2": {
+    "Math": {
+      "Lesson 1": {
+        "image": "assets/images/math1.png",
+        "topics": [
+          {
+            "heading": "Numbers up to 100",
+            "content": [
+              "Now we will learn about larger numbers, from 11 to 100.",
+              "10 tens make 100."
+            ]
+          }
+        ],
+        "important": [
+          "Practice counting and writing numbers up to 100."
+        ]
+      },
+      "Lesson 2": {
+        "image": "assets/images/math1.png",
+        "topics": [
+          {
+            "heading": "Subtraction",
+            "content": [
+              "Subtraction means taking away. The symbol for subtraction is '-'.",
+              "Practice subtracting small numbers with objects."
+            ]
+          }
+        ],
+        "important": [
+          "You can use a number line to help with subtraction."
+        ]
+      },
+      "Lesson 3": {
+        "image": "assets/images/math1.png",
+        "topics": [
+          {
+            "heading": "Multiplication: Repeated Addition",
+            "content": [
+              "Multiplication is a quick way of adding the same number again and again. The symbol for multiplication is 'x'.",
+              "Example: 2 x 3 = 2 + 2 + 2 = 6."
+            ]
+          }
+        ],
+        "important": [
+          "Learning multiplication tables is very helpful."
+        ]
+      },
+      "Lesson 4": {
+        "image": "assets/images/math1.png",
+        "topics": [
+          {
+            "heading": "Telling Time",
+            "content": [
+              "Time tells us when things happen. We use a clock to tell time.",
+              "The long hand is for minutes, and the short hand is for hours."
+            ]
+          }
+        ],
+        "important": [
+          "There are 60 minutes in an hour and 24 hours in a day."
+        ]
+      },
+      "Lesson 5": {
+        "image": "assets/images/math1.png",
+        "topics": [
+          {
+            "heading": "Measurements",
+            "content": [
+              "We use different units to measure things like length, weight, and capacity.",
+              "We measure length in centimeters and meters, weight in grams and kilograms."
+            ]
+          }
+        ],
+        "important": [
+          "100 centimeters make 1 meter. 1000 grams make 1 kilogram."
+        ]
+      }
+    },
+    "Science": {
+      "Lesson 1": {
+        "image": "assets/images/science1.png",
+        "topics": [
+          {
+            "heading": "Animals Around Us",
+            "content": [
+              "Animals are a vital part of our environment. Some live on land, and some in water."
+            ]
+          }
+        ],
+        "important": [
+          "Animals give us milk, eggs, and meat."
+        ]
+      },
+      "Lesson 2": {
+        "image": "assets/images/science1.png",
+        "topics": [
+          {
+            "heading": "Plants: Our Green Friends",
+            "content": [
+              "Plants are very important. They give us food, fresh air, and wood.",
+              "A plant has many parts: roots, stem, leaves, and flowers."
+            ]
+          }
+        ],
+        "important": [
+          "We must take care of plants by watering them and keeping them safe."
+        ]
+      },
+      "Lesson 3": {
+        "image": "assets/images/science1.png",
+        "topics": [
+          {
+            "heading": "Sources of Food",
+            "content": [
+              "We get our food from plants and animals. Plants give us fruits, vegetables, and grains. Animals give us milk, eggs, and meat."
+            ]
+          }
+        ],
+        "important": [
+          "A balanced diet is important for our health."
+        ]
+      },
+      "Lesson 4": {
+        "image": "assets/images/science1.png",
+        "topics": [
+          {
+            "heading": "The Air Around Us",
+            "content": [
+              "Air is a mixture of gases all around us. We cannot see it, but we can feel it.",
+              "All living things need air to breathe."
+            ]
+          }
+        ],
+        "important": [
+          "Air has mass and takes up space."
+        ]
+      },
+      "Lesson 5": {
+        "image": "assets/images/science1.png",
+        "topics": [
+          {
+            "heading": "Water, Water Everywhere",
+            "content": [
+              "Water is essential for all living things. It has no color, no smell, and no taste.",
+              "We should not waste water."
+            ]
+          }
+        ],
+        "important": [
+          "Water can exist as a solid (ice), liquid (water), or gas (steam)."
+        ]
+      }
+    },
+    "GK": {
+      "Lesson 1": {
+        "image": "assets/images/gk1.png",
+        "topics": [
+          {
+            "heading": "Our Helpers",
+            "content": [
+              "Many people help us in our daily lives. A doctor helps us when we are sick. A policeman keeps us safe."
+            ]
+          }
+        ],
+        "important": [
+          "Always be polite and thankful to our helpers."
+        ]
+      },
+      "Lesson 2": {
+        "image": "assets/images/gk1.png",
+        "topics": [
+          {
+            "heading": "Seasons",
+            "content": [
+              "There are different seasons in a year: summer, winter, monsoon.",
+              "Summer is hot, winter is cold, and it rains a lot in monsoon."
+            ]
+          }
+        ],
+        "important": [
+          "We wear different clothes in different seasons."
+        ]
+      },
+      "Lesson 3": {
+        "image": "assets/images/gk1.png",
+        "topics": [
+          {
+            "heading": "Our India",
+            "content": [
+              "India is our country. It has many states and beautiful places to visit.",
+              "New Delhi is the capital of India."
+            ]
+          }
+        ],
+        "important": [
+          "India is a land of many languages and cultures."
+        ]
+      },
+      "Lesson 4": {
+        "image": "assets/images/gk1.png",
+        "topics": [
+          {
+            "heading": "Places of Worship",
+            "content": [
+              "People go to different places to pray. Hindus go to a temple, Muslims go to a mosque, and Christians go to a church."
+            ]
+          }
+        ],
+        "important": [
+          "We should respect all religions."
+        ]
+      },
+      "Lesson 5": {
+        "image": "assets/images/gk1.png",
+        "topics": [
+          {
+            "heading": "Our National Symbols",
+            "content": [
+              "Our national animal is the Tiger. Our national bird is the Peacock. Our national fruit is the Mango."
+            ]
+          }
+        ],
+        "important": [
+          "Know the national symbols of our country."
+        ]
+      }
+    },
+    "Computer": {
+      "Lesson 1": {
+        "image": "assets/images/computer1.png",
+        "topics": [
+          {
+            "heading": "Using a Computer",
+            "content": [
+              "You can draw pictures using the mouse. You can write stories using the keyboard.",
+              "The monitor shows us what we are doing."
+            ]
+          }
+        ],
+        "important": [
+          "Always ask a grown-up before using a computer."
+        ]
+      },
+      "Lesson 2": {
+        "image": "assets/images/computer1.png",
+        "topics": [
+          {
+            "heading": "More about Computers",
+            "content": [
+              "A computer is an electronic device. It runs on electricity.",
+              "You can use it to store information, just like a brain."
+            ]
+          }
+        ],
+        "important": [
+          "Computers can be big like a desktop or small like a laptop."
+        ]
+      },
+      "Lesson 3": {
+        "image": "assets/images/computer1.png",
+        "topics": [
+          {
+            "heading": "The CPU: Brain of the Computer",
+            "content": [
+              "The CPU (Central Processing Unit) is the main part of the computer. It is like the computer's brain.",
+              "It helps the computer to think and do things."
+            ]
+          }
+        ],
+        "important": [
+          "The CPU is a very important part of the computer."
+        ]
+      },
+      "Lesson 4": {
+        "image": "assets/images/computer1.png",
+        "topics": [
+          {
+            "heading": "The Monitor and Keyboard",
+            "content": [
+              "The monitor shows what the computer is doing. The keyboard is used to type letters and numbers."
+            ]
+          }
+        ],
+        "important": [
+          "Practice typing your name on the keyboard."
+        ]
+      },
+      "Lesson 5": {
+        "image": "assets/images/computer1.png",
+        "topics": [
+          {
+            "heading": "Mouse Fun",
+            "content": [
+              "The mouse helps us click and select things on the screen.",
+              "It is used to play games and draw pictures."
+            ]
+          }
+        ],
+        "important": [
+          "Hold the mouse gently and practice moving it around."
+        ]
+      }
+    },
+    "English": {
+      "Lesson 1": {
+        "image": "assets/images/english1.png",
+        "topics": [
+          {
+            "heading": "Sentences",
+            "content": [
+              "A sentence is a group of words that makes complete sense.",
+              "It always starts with a capital letter and ends with a full stop (.), question mark (?), or exclamation mark (!)."
+            ]
+          }
+        ],
+        "important": [
+          "A sentence has a subject and a verb."
+        ]
+      },
+      "Lesson 2": {
+        "image": "assets/images/english1.png",
+        "topics": [
+          {
+            "heading": "Nouns: Naming Words",
+            "content": [
+              "A noun is a naming word. It names a person, place, animal, or thing.",
+              "Examples: boy, school, dog, table."
+            ]
+          }
+        ],
+        "important": [
+          "All nouns are important parts of a sentence."
+        ]
+      },
+      "Lesson 3": {
+        "image": "assets/images/english1.png",
+        "topics": [
+          {
+            "heading": "Pronouns",
+            "content": [
+              "A pronoun is a word used in place of a noun.",
+              "Example: 'He' is a pronoun for a boy, and 'She' is for a girl."
+            ]
+          }
+        ],
+        "important": [
+          "Using pronouns makes sentences shorter and more efficient."
+        ]
+      },
+      "Lesson 4": {
+        "image": "assets/images/english1.png",
+        "topics": [
+          {
+            "heading": "Verbs: Action Words",
+            "content": [
+              "A verb is an action word. It tells us what the noun is doing.",
+              "Examples: run, jump, sing, eat."
+            ]
+          }
+        ],
+        "important": [
+          "Every sentence must have a verb."
+        ]
+      },
+      "Lesson 5": {
+        "image": "assets/images/english1.png",
+        "topics": [
+          {
+            "heading": "Adjectives: Describing Words",
+            "content": [
+              "An adjective is a describing word. It tells us more about a noun.",
+              "Examples: big, small, red, happy."
+            ]
+          }
+        ],
+        "important": [
+          "Adjectives make our sentences more interesting."
+        ]
+      }
+    },
+    "Hindi": {
+      "Lesson 1": {
+        "image": "assets/images/hindi1.png",
+        "topics": [
+          {
+            "heading": "तीन अक्षरों वाले शब्द",
+            "content": [
+              "तीन अक्षरों को मिलाकर हम नए शब्द बना सकते हैं।",
+              "जैसे: 'न'+'म'+'क' = 'नमक', 'क'+'म'+'ल' = 'कमल'।"
+            ]
+          }
+        ],
+        "important": [
+          "जितना ज्यादा अभ्यास करेंगे, उतनी आसानी होगी।"
+        ]
+      },
+      "Lesson 2": {
+        "image": "assets/images/hindi1.png",
+        "topics": [
+          {
+            "heading": "वचन बदलो",
+            "content": [
+              "वचन से पता चलता है कि चीज़ एक है या एक से ज़्यादा।",
+              "एकवचन: एक किताब। बहुवचन: बहुत सी किताबें।"
+            ]
+          }
+        ],
+        "important": [
+          "जानवरों और वस्तुओं के वचन बदलो का अभ्यास करें।"
+        ]
+      },
+      "Lesson 3": {
+        "image": "assets/images/hindi1.png",
+        "topics": [
+          {
+            "heading": "लिंग बदलो",
+            "content": [
+              "लिंग से संज्ञा के पुरुष या स्त्री होने का पता चलता है।",
+              "पुल्लिंग: लड़का, राजा। स्त्रीलिंग: लड़की, रानी।"
+            ]
+          }
+        ],
+        "important": [
+          "शब्दों को पुल्लिंग और स्त्रीलिंग में बदलना सीखें।"
+        ]
+      },
+      "Lesson 4": {
+        "image": "assets/images/hindi1.png",
+        "topics": [
+          {
+            "heading": "वाक्य बनाना",
+            "content": [
+              "शब्दों को सही क्रम में रखकर हम पूरा वाक्य बना सकते हैं।",
+              "जैसे: 'राम' 'खेलता' 'है'।"
+            ]
+          }
+        ],
+        "important": [
+          "वाक्य हमेशा किसी भाव या बात को पूरा बताता है।"
+        ]
+      },
+      "Lesson 5": {
+        "image": "assets/images/hindi1.png",
+        "topics": [
+          {
+            "heading": "समानार्थी शब्द",
+            "content": [
+              "समानार्थी शब्द वे शब्द हैं जिनका मतलब एक जैसा होता है।",
+              "जैसे: 'सूरज' को 'रवि' भी कहते हैं।"
+            ]
+          }
+        ],
+        "important": [
+          "समानार्थी शब्दों का उपयोग हमारी भाषा को और समृद्ध बनाता है।"
+        ]
+      }
+    }
+  },
+  "Class 3": {
+    "Math": {
+      "Lesson 1": {
+        "image": "assets/images/math1.png",
+        "topics": [
+          {
+            "heading": "Introduction to Multiplication",
+            "content": [
+              "Multiplication is repeated addition. The symbol for multiplication is 'x'.",
+              "Example: 3 x 2 is same as 2 + 2 + 2."
+            ]
+          }
+        ],
+        "important": [
+          "Learning multiplication tables is very helpful."
+        ]
+      },
+      "Lesson 2": {
+        "image": "assets/images/math1.png",
+        "topics": [
+          {
+            "heading": "Division",
+            "content": [
+              "Division is splitting into equal parts or groups. It is the opposite of multiplication.",
+              "The symbol for division is '÷'."
+            ]
+          }
+        ],
+        "important": [
+          "Example: 10 ÷ 2 = 5."
+        ]
+      },
+      "Lesson 3": {
+        "image": "assets/images/math1.png",
+        "topics": [
+          {
+            "heading": "Geometry: Shapes and Angles",
+            "content": [
+              "Geometry is the study of shapes and sizes. An angle is formed when two lines meet."
+            ]
+          }
+        ],
+        "important": [
+          "A right angle is 90 degrees."
+        ]
+      },
+      "Lesson 4": {
+        "image": "assets/images/math1.png",
+        "topics": [
+          {
+            "heading": "Fractions",
+            "content": [
+              "Fractions represent parts of a whole. A fraction has a numerator (top number) and a denominator (bottom number).",
+              "Example: 1/2 means one part out of two equal parts."
+            ]
+          }
+        ],
+        "important": [
+          "The denominator tells us how many total parts there are."
+        ]
+      },
+      "Lesson 5": {
+        "image": "assets/images/math1.png",
+        "topics": [
+          {
+            "heading": "Time and Calendar",
+            "content": [
+              "A year has 12 months. A month has about 30 days. A week has 7 days. A day has 24 hours.",
+              "We use a calendar to see the days, weeks, and months."
+            ]
+          }
+        ],
+        "important": [
+          "Practice reading dates and days of the week."
+        ]
+      }
+    },
+    "Science": {
+      "Lesson 1": {
+        "image": "assets/images/science1.png",
+        "topics": [
+          {
+            "heading": "Our Body",
+            "content": [
+              "Our body is made of different parts. Each part has a special function.",
+              "Bones give shape to our body."
+            ]
+          }
+        ],
+        "important": [
+          "We must keep our body clean and healthy."
+        ]
+      },
+      "Lesson 2": {
+        "image": "assets/images/science1.png",
+        "topics": [
+          {
+            "heading": "Sources of Food",
+            "content": [
+              "We get our food from plants and animals. Plants give us fruits, vegetables, and grains. Animals give us milk, eggs, and meat."
+            ]
+          }
+        ],
+        "important": [
+          "A balanced diet is important for our health."
+        ]
+      },
+      "Lesson 3": {
+        "image": "assets/images/science1.png",
+        "topics": [
+          {
+            "heading": "Matter and Its States",
+            "content": [
+              "Matter is anything that has mass and takes up space. It can be a solid, liquid, or gas."
+            ]
+          }
+        ],
+        "important": [
+          "Solids have a fixed shape and volume."
+        ]
+      },
+      "Lesson 4": {
+        "image": "assets/images/science1.png",
+        "topics": [
+          {
+            "heading": "Weather and Climate",
+            "content": [
+              "Weather is what the atmosphere is like outside. It can be sunny, cloudy, or rainy.",
+              "Climate is the average weather over a long time."
+            ]
+          }
+        ],
+        "important": [
+          "We check the weather to know what clothes to wear."
+        ]
+      },
+      "Lesson 5": {
+        "image": "assets/images/science1.png",
+        "topics": [
+          {
+            "heading": "Our Environment",
+            "content": [
+              "Our environment is everything around us, including air, water, land, and living things.",
+              "We must keep our environment clean to stay healthy."
+            ]
+          }
+        ],
+        "important": [
+          "Planting more trees helps to keep our air clean."
+        ]
+      }
+    },
+    "GK": {
+      "Lesson 1": {
+        "image": "assets/images/gk1.png",
+        "topics": [
+          {
+            "heading": "National Symbols",
+            "content": [
+              "Our national flag is the Tiranga. Our national animal is the Tiger. Our national bird is the Peacock."
+            ]
+          }
+        ],
+        "important": [
+          "Know the national symbols of your country."
+        ]
+      },
+      "Lesson 2": {
+        "image": "assets/images/gk1.png",
+        "topics": [
+          {
+            "heading": "Important Days",
+            "content": [
+              "We celebrate many important days, like Republic Day (26th January) and Independence Day (15th August)."
+            ]
+          }
+        ],
+        "important": [
+          "These days remind us of important events in our history."
+        ]
+      },
+      "Lesson 3": {
+        "image": "assets/images/gk1.png",
+        "topics": [
+          {
+            "heading": "Indian States and Capitals",
+            "content": [
+              "India has many states, and each state has a capital city. Know the capitals of different states."
+            ]
+          }
+        ],
+        "important": [
+          "New Delhi is the capital of India."
+        ]
+      },
+      "Lesson 4": {
+        "image": "assets/images/gk1.png",
+        "topics": [
+          {
+            "heading": "The Solar System",
+            "content": [
+              "Our solar system consists of the sun and eight planets. Planets revolve around the sun in fixed orbits."
+            ]
+          }
+        ],
+        "important": [
+          "Mercury is the closest planet to the sun."
+        ]
+      },
+      "Lesson 5": {
+        "image": "assets/images/gk1.png",
+        "topics": [
+          {
+            "heading": "Famous Indian Personalities",
+            "content": [
+              "Many famous people have contributed to India. Mahatma Gandhi is known as the Father of the Nation."
+            ]
+          }
+        ],
+        "important": [
+          "Learn about the lives and work of these great people."
+        ]
+      }
+    },
+    "Computer": {
+      "Lesson 1": {
+        "image": "assets/images/computer1.png",
+        "topics": [
+          {
+            "heading": "The Internet",
+            "content": [
+              "The Internet is a huge network of computers. It helps us find information and talk to people all over the world."
+            ]
+          }
+        ],
+        "important": [
+          "Always be safe on the Internet. Don't share personal information."
+        ]
+      },
+      "Lesson 2": {
+        "image": "assets/images/computer1.png",
+        "topics": [
+          {
+            "heading": "Software and Hardware",
+            "content": [
+              "Hardware is the physical parts of a computer that you can touch. Software is the programs that run on the computer."
+            ]
+          }
+        ],
+        "important": [
+          "Both hardware and software are needed for a computer to work."
+        ]
+      },
+      "Lesson 3": {
+        "image": "assets/images/computer1.png",
+        "topics": [
+          {
+            "heading": "Operating System",
+            "content": [
+              "An operating system is a software that manages all the programs and hardware. It is the main program of a computer.",
+              "Examples: Windows, Android, iOS."
+            ]
+          }
+        ],
+        "important": [
+          "The operating system helps the computer to start and work properly."
+        ]
+      },
+      "Lesson 4": {
+        "image": "assets/images/computer1.png",
+        "topics": [
+          {
+            "heading": "Basic Computer Safety",
+            "content": [
+              "Never click on links from unknown people. Always get a grown-up's permission before downloading anything.",
+              "Keep your passwords a secret."
+            ]
+          }
+        ],
+        "important": [
+          "Being safe online is very important."
+        ]
+      },
+      "Lesson 5": {
+        "image": "assets/images/computer1.png",
+        "topics": [
+          {
+            "heading": "Common Computer Programs",
+            "content": [
+              "There are many useful programs on a computer. A word processor helps us write stories. A drawing program helps us create art."
+            ]
+          }
+        ],
+        "important": [
+          "You can use these programs for schoolwork and for fun."
+        ]
+      }
+    },
+    "English": {
+      "Lesson 1": {
+        "image": "assets/images/english1.png",
+        "topics": [
+          {
+            "heading": "Adjectives",
+            "content": [
+              "An adjective is a describing word. It tells us more about a noun.",
+              "Examples: big, small, red, happy."
+            ]
+          }
+        ],
+        "important": [
+          "Adjectives make our sentences more interesting."
+        ]
+      },
+      "Lesson 2": {
+        "image": "assets/images/english1.png",
+        "topics": [
+          {
+            "heading": "Tenses",
+            "content": [
+              "Tense tells us when an action happened. There are three main tenses: past, present, and future."
+            ]
+          }
+        ],
+        "important": [
+          "Past tense is for actions that already happened."
+        ]
+      },
+      "Lesson 3": {
+        "image": "assets/images/english1.png",
+        "topics": [
+          {
+            "heading": "Adverbs",
+            "content": [
+              "An adverb is a word that describes a verb, an adjective, or another adverb.",
+              "It tells us how, when, or where something is done."
+            ]
+          }
+        ],
+        "important": [
+          "Adverbs often end in '-ly', like 'quickly' or 'slowly'."
+        ]
+      },
+      "Lesson 4": {
+        "image": "assets/images/english1.png",
+        "topics": [
+          {
+            "heading": "Prepositions",
+            "content": [
+              "A preposition is a word that shows the relationship between a noun or pronoun and other words in a sentence.",
+              "Examples: on, in, under, near."
+            ]
+          }
+        ],
+        "important": [
+          "Prepositions help us understand where something is."
+        ]
+      },
+      "Lesson 5": {
+        "image": "assets/images/english1.png",
+        "topics": [
+          {
+            "heading": "Conjunctions",
+            "content": [
+              "A conjunction is a word that joins words, phrases, or sentences.",
+              "Examples: and, but, or."
+            ]
+          }
+        ],
+        "important": [
+          "Conjunctions help us make longer and more complex sentences."
+        ]
+      }
+    },
+    "Hindi": {
+      "Lesson 1": {
+        "image": "assets/images/hindi1.png",
+        "topics": [
+          {
+            "heading": "संज्ञा",
+            "content": [
+              "संज्ञा उस शब्द को कहते हैं जो किसी व्यक्ति, वस्तु, स्थान या भाव के नाम को बताता है।",
+              "जैसे: मोहन, किताब, दिल्ली, खुशी।"
+            ]
+          }
+        ],
+        "important": [
+          "संज्ञा को पहचानना वाक्यों को समझने में मदद करता है।"
+        ]
+      },
+      "Lesson 2": {
+        "image": "assets/images/hindi1.png",
+        "topics": [
+          {
+            "heading": "क्रिया",
+            "content": [
+              "क्रिया वह शब्द है जिससे किसी काम के होने या करने का पता चलता है।",
+              "जैसे: पढ़ना, खेलना, दौड़ना।"
+            ]
+          }
+        ],
+        "important": [
+          "हर वाक्य में क्रिया होती है।"
+        ]
+      },
+      "Lesson 3": {
+        "image": "assets/images/hindi1.png",
+        "topics": [
+          {
+            "heading": "सर्वनाम",
+            "content": [
+              "सर्वनाम वह शब्द है जो संज्ञा के स्थान पर प्रयोग होता है।",
+              "जैसे: मैं, तुम, वह।"
+            ]
+          }
+        ],
+        "important": [
+          "सर्वनाम से वाक्य छोटे और आसान हो जाते हैं।"
+        ]
+      },
+      "Lesson 4": {
+        "image": "assets/images/hindi1.png",
+        "topics": [
+          {
+            "heading": "विशेषण",
+            "content": [
+              "विशेषण वे शब्द हैं जो संज्ञा या सर्वनाम की विशेषता बताते हैं।",
+              "जैसे: 'सुंदर' फूल, 'बड़ा' घर।"
+            ]
+          }
+        ],
+        "important": [
+          "विशेषण से वाक्य और भी सुंदर लगते हैं।"
+        ]
+      },
+      "Lesson 5": {
+        "image": "assets/images/hindi1.png",
+        "topics": [
+          {
+            "heading": "अनेक शब्दों के लिए एक शब्द",
+            "content": [
+              "जब हम कई शब्दों के स्थान पर एक ही शब्द का प्रयोग करते हैं, तो उसे अनेक शब्दों के लिए एक शब्द कहते हैं।",
+              "जैसे: जो पढ़ाता है - 'अध्यापक'।"
+            ]
+          }
+        ],
+        "important": [
+          "यह हमारी भाषा को और भी प्रभावी बनाता है।"
+        ]
+      }
+    }
+  },
+  "Class 4": {
+    "Math": {
+      "Lesson 1": {
+        "image": "assets/images/math1.png",
+        "topics": [
+          {
+            "heading": "Long Division",
+            "content": [
+              "Division is splitting into equal parts. Long division helps with bigger numbers."
+            ]
+          }
+        ],
+        "important": [
+          "Remember the terms: divisor, dividend, quotient, and remainder."
+        ]
+      },
+      "Lesson 2": {
+        "image": "assets/images/math1.png",
+        "topics": [
+          {
+            "heading": "Geometry: Shapes and Angles",
+            "content": [
+              "Geometry is the study of shapes and sizes. An angle is formed when two lines meet."
+            ]
+          }
+        ],
+        "important": [
+          "A right angle is 90 degrees."
+        ]
+      },
+      "Lesson 3": {
+        "image": "assets/images/math1.png",
+        "topics": [
+          {
+            "heading": "Fractions and Decimals",
+            "content": [
+              "Fractions represent parts of a whole. Decimals are another way to show fractions."
+            ]
+          }
+        ],
+        "important": [
+          "A fraction has a numerator and a denominator."
+        ]
+      },
+      "Lesson 4": {
+        "image": "assets/images/math1.png",
+        "topics": [
+          {
+            "heading": "Area and Perimeter",
+            "content": [
+              "Perimeter is the distance around a shape. Area is the space inside a shape."
+            ]
+          }
+        ],
+        "important": [
+          "Perimeter of a square = 4 x side. Area of a square = side x side."
+        ]
+      },
+      "Lesson 5": {
+        "image": "assets/images/math1.png",
+        "topics": [
+          {
+            "heading": "Money: Bills and Coins",
+            "content": [
+              "Money is used to buy and sell things. We have notes (bills) and coins of different values.",
+              "We will learn to add and subtract money and calculate change."
+            ]
+          }
+        ],
+        "important": [
+          "Practice counting money and making small purchases with your parents."
+        ]
+      }
+    },
+    "Science": {
+      "Lesson 1": {
+        "image": "assets/images/science1.png",
+        "topics": [
+          {
+            "heading": "Matter and Its States",
+            "content": [
+              "Matter is anything that has mass and takes up space. It can be a solid, liquid, or gas."
+            ]
+          }
+        ],
+        "important": [
+          "Solids have a fixed shape and volume."
+        ]
+      },
+      "Lesson 2": {
+        "image": "assets/images/science1.png",
+        "topics": [
+          {
+            "heading": "Air and Water",
+            "content": [
+              "Air is a mixture of gases all around us. Water is essential for all living things."
+            ]
+          }
+        ],
+        "important": [
+          "Air has mass and takes up space.",
+          "Water can exist as a solid, liquid, or gas."
+        ]
+      },
+      "Lesson 3": {
+        "image": "assets/images/science1.png",
+        "topics": [
+          {
+            "heading": "Force and Simple Machines",
+            "content": [
+              "A force is a push or a pull. Simple machines like a lever, pulley, and wheel and axle help us do work more easily."
+            ]
+          }
+        ],
+        "important": [
+          "A lever helps us lift heavy objects."
+        ]
+      },
+      "Lesson 4": {
+        "image": "assets/images/science1.png",
+        "topics": [
+          {
+            "heading": "The Solar System",
+            "content": [
+              "Our solar system consists of the sun and eight planets. Planets revolve around the sun in fixed orbits."
+            ]
+          }
+        ],
+        "important": [
+          "Mercury is the closest planet to the sun."
+        ]
+      },
+      "Lesson 5": {
+        "image": "assets/images/science1.png",
+        "topics": [
+          {
+            "heading": "The Human Body Systems",
+            "content": [
+              "Our body has different systems that work together. The digestive system breaks down food."
+            ]
+          }
+        ],
+        "important": [
+          "The circulatory system transports blood."
+        ]
+      }
+    },
+    "GK": {
+      "Lesson 1": {
+        "image": "assets/images/gk1.png",
+        "topics": [
+          {
+            "heading": "Continents and Oceans",
+            "content": [
+              "There are seven continents on Earth and five oceans. A continent is a very large landmass."
+            ]
+          }
+        ],
+        "important": [
+          "Asia is the largest continent."
+        ]
+      },
+      "Lesson 2": {
+        "image": "assets/images/gk1.png",
+        "topics": [
+          {
+            "heading": "Inventions and Discoveries",
+            "content": [
+              "Many important things have been invented by brilliant minds. Thomas Edison invented the light bulb.",
+              "Alexander Graham Bell invented the telephone."
+            ]
+          }
+        ],
+        "important": [
+          "Inventions have made our lives easier."
+        ]
+      },
+      "Lesson 3": {
+        "image": "assets/images/gk1.png",
+        "topics": [
+          {
+            "heading": "Famous Monuments of India",
+            "content": [
+              "India has many famous monuments like the Taj Mahal, Red Fort, and Qutub Minar.",
+              "These monuments have a rich history."
+            ]
+          }
+        ],
+        "important": [
+          "The Taj Mahal is one of the Seven Wonders of the World."
+        ]
+      },
+      "Lesson 4": {
+        "image": "assets/images/gk1.png",
+        "topics": [
+          {
+            "heading": "Sports and Games",
+            "content": [
+              "We play many sports and games. Cricket, hockey, and football are some popular sports.",
+              "Playing sports keeps us healthy."
+            ]
+          }
+        ],
+        "important": [
+          "Hockey is the national sport of India."
+        ]
+      },
+      "Lesson 5": {
+        "image": "assets/images/gk1.png",
+        "topics": [
+          {
+            "heading": "Our Government",
+            "content": [
+              "Our government works to keep our country safe and help its people.",
+              "The President is the head of the country, and the Prime Minister is the head of the government."
+            ]
+          }
+        ],
+        "important": [
+          "We should respect our leaders and government."
+        ]
+      }
+    },
+    "Computer": {
+      "Lesson 1": {
+        "image": "assets/images/computer1.png",
+        "topics": [
+          {
+            "heading": "Input and Output Devices",
+            "content": [
+              "Input devices are used to give information to the computer, like a keyboard and mouse.",
+              "Output devices show us the results, like a monitor and a printer."
+            ]
+          }
+        ],
+        "important": [
+          "The monitor is an output device, and the keyboard is an input device."
+        ]
+      },
+      "Lesson 2": {
+        "image": "assets/images/computer1.png",
+        "topics": [
+          {
+            "heading": "Computer Memory",
+            "content": [
+              "A computer has memory to store information. This memory is called RAM (Random Access Memory) and ROM (Read-Only Memory)."
+            ]
+          }
+        ],
+        "important": [
+          "RAM is a temporary memory, and ROM is a permanent memory."
+        ]
+      },
+      "Lesson 3": {
+        "image": "assets/images/computer1.png",
+        "topics": [
+          {
+            "heading": "Saving and Opening Files",
+            "content": [
+              "When you finish your work on a computer, you can save it as a file. You can open the file later to see your work again."
+            ]
+          }
+        ],
+        "important": [
+          "Give your files a good name so you can find them easily."
+        ]
+      },
+      "Lesson 4": {
+        "image": "assets/images/computer1.png",
+        "topics": [
+          {
+            "heading": "Using the Internet Safely",
+            "content": [
+              "The Internet is a great tool, but we must use it safely. Never talk to strangers online or share personal details."
+            ]
+          }
+        ],
+        "important": [
+          "Always use the Internet with a grown-up's supervision."
+        ]
+      },
+      "Lesson 5": {
+        "image": "assets/images/computer1.png",
+        "topics": [
+          {
+            "heading": "Computer Viruses",
+            "content": [
+              "A computer virus is a bad program that can harm your computer. It can make your computer slow or delete your files."
+            ]
+          }
+        ],
+        "important": [
+          "Use antivirus software to protect your computer from viruses."
+        ]
+      }
+    },
+    "English": {
+      "Lesson 1": {
+        "image": "assets/images/english1.png",
+        "topics": [
+          {
+            "heading": "Homophones and Homonyms",
+            "content": [
+              "Homophones are words that sound the same but have different meanings and spellings. Example: 'to' and 'too'.",
+              "Homonyms are words that are spelled and pronounced the same but have different meanings. Example: 'bank'."
+            ]
+          }
+        ],
+        "important": [
+          "Pay attention to the context to understand the correct meaning."
+        ]
+      },
+      "Lesson 2": {
+        "image": "assets/images/english1.png",
+        "topics": [
+          {
+            "heading": "Interjections",
+            "content": [
+              "An interjection is a word used to show a strong feeling or emotion.",
+              "Examples: Wow!, Hurray!, Ouch!"
+            ]
+          }
+        ],
+        "important": [
+          "Interjections are often followed by an exclamation mark."
+        ]
+      },
+      "Lesson 3": {
+        "image": "assets/images/english1.png",
+        "topics": [
+          {
+            "heading": "Punctuation Marks",
+            "content": [
+              "Punctuation marks are symbols that help us understand a sentence. We will learn about the comma, semicolon, and colon."
+            ]
+          }
+        ],
+        "important": [
+          "A comma is used to pause in a sentence."
+        ]
+      },
+      "Lesson 4": {
+        "image": "assets/images/english1.png",
+        "topics": [
+          {
+            "heading": "Story Writing",
+            "content": [
+              "Every story has a beginning, a middle, and an end. The beginning introduces the characters and setting.",
+              "The middle has the main events, and the end resolves the story."
+            ]
+          }
+        ],
+        "important": [
+          "Plan your story before you start writing."
+        ]
+      },
+      "Lesson 5": {
+        "image": "assets/images/english1.png",
+        "topics": [
+          {
+            "heading": "Letter Writing",
+            "content": [
+              "There are two main types of letters: formal and informal. Formal letters are for business, and informal letters are for family and friends."
+            ]
+          }
+        ],
+        "important": [
+          "Every letter has a proper format to follow."
+        ]
+      }
+    },
+    "Hindi": {
+      "Lesson 1": {
+        "image": "assets/images/hindi1.png",
+        "topics": [
+          {
+            "heading": "विपरीतार्थक (विलोम) शब्द",
+            "content": [
+              "विलोम शब्द वे हैं जो एक-दूसरे के विपरीत अर्थ देते हैं।",
+              "जैसे: 'दिन' का विलोम 'रात'।"
+            ]
+          }
+        ],
+        "important": [
+          "विलोम शब्दों का ज्ञान भाषा को और मजबूत बनाता है।"
+        ]
+      },
+      "Lesson 2": {
+        "image": "assets/images/hindi1.png",
+        "topics": [
+          {
+            "heading": "अशुद्ध वाक्य",
+            "content": [
+              "जब हम बोलते या लिखते समय गलतियाँ करते हैं, तो वे वाक्य अशुद्ध कहलाते हैं।",
+              "जैसे: 'मैं जाता हूँ' की जगह 'मैं जाती हूँ' कहना।"
+            ]
+          }
+        ],
+        "important": [
+          "सही व्याकरण का उपयोग करने से भाषा में सटीकता आती है।"
+        ]
+      },
+      "Lesson 3": {
+        "image": "assets/images/hindi1.png",
+        "topics": [
+          {
+            "heading": "मुहावरे",
+            "content": [
+              "मुहावरे वे वाक्यांश हैं जिनका शाब्दिक अर्थ कुछ और होता है, लेकिन उनका उपयोग किसी विशेष अर्थ में किया जाता है।",
+              "जैसे: 'नौ दो ग्यारह होना' का मतलब है 'भाग जाना'।"
+            ]
+          }
+        ],
+        "important": [
+          "मुहावरों के सही प्रयोग से भाषा प्रभावशाली बनती है।"
+        ]
+      },
+      "Lesson 4": {
+        "image": "assets/images/hindi1.png",
+        "topics": [
+          {
+            "heading": "पत्र लेखन",
+            "content": [
+              "पत्र दो प्रकार के होते हैं: औपचारिक और अनौपचारिक।",
+              "औपचारिक पत्र सरकारी या व्यावसायिक कार्यों के लिए लिखे जाते हैं, और अनौपचारिक पत्र दोस्तों और परिवार के लिए।"
+            ]
+          }
+        ],
+        "important": [
+          "हर पत्र का एक निश्चित प्रारूप होता है।"
+        ]
+      },
+      "Lesson 5": {
+        "image": "assets/images/hindi1.png",
+        "topics": [
+          {
+            "heading": "कहानी लेखन",
+            "content": [
+              "एक कहानी में शुरुआत, मध्य और अंत होता है।",
+              "अच्छी कहानी लिखने के लिए कल्पना और रचनात्मकता का उपयोग करें।"
+            ]
+          }
+        ],
+        "important": [
+          "कहानी में पात्र (characters), स्थान (setting) और समस्या (conflict) होती है।"
+        ]
+      }
+    }
+  },
+  "Class 5": {
+    "Math": {
+      "Lesson 1": {
+        "image": "assets/images/math1.png",
+        "topics": [
+          {
+            "heading": "Fractions and Decimals",
+            "content": [
+              "Fractions represent parts of a whole. Decimals are another way to show fractions."
+            ]
+          }
+        ],
+        "important": [
+          "A fraction has a numerator and a denominator."
+        ]
+      },
+      "Lesson 2": {
+        "image": "assets/images/math1.png",
+        "topics": [
+          {
+            "heading": "Area and Perimeter",
+            "content": [
+              "Perimeter is the distance around a shape. Area is the space inside a shape."
+            ]
+          }
+        ],
+        "important": [
+          "Perimeter of a square = 4 x side. Area of a square = side x side."
+        ]
+      },
+      "Lesson 3": {
+        "image": "assets/images/math1.png",
+        "topics": [
+          {
+            "heading": "Simple Interest",
+            "content": [
+              "Simple interest is the extra money you get when you save money in a bank or the extra money you have to pay when you borrow money.",
+              "Formula: Simple Interest = (Principal x Rate x Time) / 100."
+            ]
+          }
+        ],
+        "important": [
+          "The Principal is the initial amount of money."
+        ]
+      },
+      "Lesson 4": {
+        "image": "assets/images/math1.png",
+        "topics": [
+          {
+            "heading": "Percentages",
+            "content": [
+              "A percentage is a number or ratio expressed as a fraction of 100. The symbol is '%'.",
+              "Example: 50% is the same as 50/100 or 1/2."
+            ]
+          }
+        ],
+        "important": [
+          "Percentages are used to show parts of a whole, like scores in a test."
+        ]
+      },
+      "Lesson 5": {
+        "image": "assets/images/math1.png",
+        "topics": [
+          {
+            "heading": "Algebra: Variables and Expressions",
+            "content": [
+              "Algebra uses letters and symbols to represent numbers. A variable is a symbol that stands for a number.",
+              "An expression is a combination of numbers, variables, and operation symbols."
+            ]
+          }
+        ],
+        "important": [
+          "Algebra helps us solve problems more easily."
+        ]
+      }
+    },
+    "Science": {
+      "Lesson 1": {
+        "image": "assets/images/science1.png",
+        "topics": [
+          {
+            "heading": "The Human Body Systems",
+            "content": [
+              "Our body has different systems that work together. The digestive system breaks down food."
+            ]
+          }
+        ],
+        "important": [
+          "The circulatory system transports blood."
+        ]
+      },
+      "Lesson 2": {
+        "image": "assets/images/science1.png",
+        "topics": [
+          {
+            "heading": "Force, Work and Energy",
+            "content": [
+              "A force is a push or a pull. Work is done when a force moves an object. Energy is the ability to do work."
+            ]
+          }
+        ],
+        "important": [
+          "Force has both magnitude and direction."
+        ]
+      },
+      "Lesson 3": {
+        "image": "assets/images/science1.png",
+        "topics": [
+          {
+            "heading": "Light, Shadows and Reflections",
+            "content": [
+              "Light travels in a straight line. An opaque object casts a shadow.",
+              "A reflection is when light bounces off a surface."
+            ]
+          }
+        ],
+        "important": [
+          "We can see a reflection in a mirror."
+        ]
+      },
+      "Lesson 4": {
+        "image": "assets/images/science1.png",
+        "topics": [
+          {
+            "heading": "The Food We Eat",
+            "content": [
+              "Our food has different components like carbohydrates, fats, proteins, vitamins, and minerals. These are called nutrients."
+            ]
+          }
+        ],
+        "important": [
+          "Carbohydrates give us energy."
+        ]
+      },
+      "Lesson 5": {
+        "image": "assets/images/science1.png",
+        "topics": [
+          {
+            "heading": "The Earth and Its Environment",
+            "content": [
+              "The Earth is our home. It has land, water, and air. We must protect our planet from pollution."
+            ]
+          }
+        ],
+        "important": [
+          "Reduce, Reuse, and Recycle are three ways to protect the environment."
+        ]
+      }
+    },
+    "GK": {
+      "Lesson 1": {
+        "image": "assets/images/gk1.png",
+        "topics": [
+          {
+            "heading": "Indian States and Capitals",
+            "content": [
+              "India has many states, and each state has a capital city. Know the capitals of different states."
+            ]
+          }
+        ],
+        "important": [
+          "New Delhi is the capital of India."
+        ]
+      },
+      "Lesson 2": {
+        "image": "assets/images/gk1.png",
+        "topics": [
+          {
+            "heading": "Famous Indian Personalities",
+            "content": [
+              "Many famous people have contributed to India. Mahatma Gandhi is known as the Father of the Nation."
+            ]
+          }
+        ],
+        "important": [
+          "Learn about the lives and work of these great people."
+        ]
+      },
+      "Lesson 3": {
+        "image": "assets/images/gk1.png",
+        "topics": [
+          {
+            "heading": "Inventions and Discoveries",
+            "content": [
+              "Many important things have been invented by brilliant minds. Thomas Edison invented the light bulb."
+            ]
+          }
+        ],
+        "important": [
+          "Inventions have made our lives easier."
+        ]
+      },
+      "Lesson 4": {
+        "image": "assets/images/gk1.png",
+        "topics": [
+          {
+            "heading": "International Organizations",
+            "content": [
+              "Many organizations work to help the world. The United Nations (UN) works for world peace."
+            ]
+          }
+        ],
+        "important": [
+          "The WHO (World Health Organization) works for people's health."
+        ]
+      },
+      "Lesson 5": {
+        "image": "assets/images/gk1.png",
+        "topics": [
+          {
+            "heading": "Our Universe",
+            "content": [
+              "The universe is everything that exists, including planets, stars, and galaxies. The sun is a star.",
+              "Our galaxy is called the Milky Way."
+            ]
+          }
+        ],
+        "important": [
+          "There are billions of galaxies in the universe."
+        ]
+      }
+    },
+    "Computer": {
+      "Lesson 1": {
+        "image": "assets/images/computer1.png",
+        "topics": [
+          {
+            "heading": "Input and Output Devices",
+            "content": [
+              "Input devices are used to give information to the computer, like a keyboard and mouse.",
+              "Output devices show us the results, like a monitor and a printer."
+            ]
+          }
+        ],
+        "important": [
+          "The monitor is an output device, and the keyboard is an input device."
+        ]
+      },
+      "Lesson 2": {
+        "image": "assets/images/computer1.png",
+        "topics": [
+          {
+            "heading": "Software and Hardware",
+            "content": [
+              "Hardware is the physical parts of a computer that you can touch. Software is the programs that run on the computer."
+            ]
+          }
+        ],
+        "important": [
+          "Both hardware and software are needed for a computer to work."
+        ]
+      },
+      "Lesson 3": {
+        "image": "assets/images/computer1.png",
+        "topics": [
+          {
+            "heading": "Operating System",
+            "content": [
+              "An operating system is a software that manages all the programs and hardware. It is the main program of a computer.",
+              "Examples: Windows, Android, iOS."
+            ]
+          }
+        ],
+        "important": [
+          "The operating system helps the computer to start and work properly."
+        ]
+      },
+      "Lesson 4": {
+        "image": "assets/images/computer1.png",
+        "topics": [
+          {
+            "heading": "Computer Viruses and Antivirus",
+            "content": [
+              "A computer virus is a bad program that can harm your computer. It can make your computer slow or delete your files.",
+              "Antivirus software protects your computer from viruses."
+            ]
+          }
+        ],
+        "important": [
+          "Regularly scan your computer with an antivirus program."
+        ]
+      },
+      "Lesson 5": {
+        "image": "assets/images/computer1.png",
+        "topics": [
+          {
+            "heading": "Computer Generations",
+            "content": [
+              "Computers have evolved over time. There have been five generations of computers, each with different technology.",
+              "The first computers were very large and slow."
+            ]
+          }
+        ],
+        "important": [
+          "Today's computers are much faster and smaller."
+        ]
+      }
+    },
+    "English": {
+      "Lesson 1": {
+        "image": "assets/images/english1.png",
+        "topics": [
+          {
+            "heading": "Homophones and Homonyms",
+            "content": [
+              "Homophones are words that sound the same but have different meanings and spellings. Example: 'to' and 'too'.",
+              "Homonyms are words that are spelled and pronounced the same but have different meanings. Example: 'bank'."
+            ]
+          }
+        ],
+        "important": [
+          "Pay attention to the context to understand the correct meaning."
+        ]
+      },
+      "Lesson 2": {
+        "image": "assets/images/english1.png",
+        "topics": [
+          {
+            "heading": "Interjections",
+            "content": [
+              "An interjection is a word used to show a strong feeling or emotion.",
+              "Examples: Wow!, Hurray!, Ouch!"
+            ]
+          }
+        ],
+        "important": [
+          "Interjections are often followed by an exclamation mark."
+        ]
+      },
+      "Lesson 3": {
+        "image": "assets/images/english1.png",
+        "topics": [
+          {
+            "heading": "Punctuation Marks",
+            "content": [
+              "Punctuation marks are symbols that help us understand a sentence. We will learn about the comma, semicolon, and colon."
+            ]
+          }
+        ],
+        "important": [
+          "A comma is used to pause in a sentence."
+        ]
+      },
+      "Lesson 4": {
+        "image": "assets/images/english1.png",
+        "topics": [
+          {
+            "heading": "Active and Passive Voice",
+            "content": [
+              "Active voice is when the subject of the sentence performs the action. Passive voice is when the subject receives the action."
+            ]
+          }
+        ],
+        "important": [
+          "Active voice makes sentences more direct and clear."
+        ]
+      },
+      "Lesson 5": {
+        "image": "assets/images/english1.png",
+        "topics": [
+          {
+            "heading": "Direct and Indirect Speech",
+            "content": [
+              "Direct speech is when we quote the exact words of a speaker. Indirect speech is when we report what the speaker said without quoting them."
+            ]
+          }
+        ],
+        "important": [
+          "In direct speech, we use quotation marks."
+        ]
+      }
+    },
+    "Hindi": {
+      "Lesson 1": {
+        "image": "assets/images/hindi1.png",
+        "topics": [
+          {
+            "heading": "विराम चिन्ह",
+            "content": [
+              "विराम चिन्हों का उपयोग वाक्य में ठहराव और भाव को दर्शाने के लिए होता है।",
+              "जैसे: पूर्ण विराम (।), प्रश्नवाचक चिन्ह (?)।"
+            ]
+          }
+        ],
+        "important": [
+          "सही विराम चिन्हों का उपयोग करने से वाक्य स्पष्ट होते हैं।"
+        ]
+      },
+      "Lesson 2": {
+        "image": "assets/images/hindi1.png",
+        "topics": [
+          {
+            "heading": "संवाद लेखन",
+            "content": [
+              "संवाद लेखन का मतलब है दो या दो से अधिक लोगों के बीच बातचीत लिखना।",
+              "यह कहानी को और मजेदार बनाता है।"
+            ]
+          }
+        ],
+        "important": [
+          "संवाद लिखते समय पात्रों के भावों को भी दर्शाना चाहिए।"
+        ]
+      },
+      "Lesson 3": {
+        "image": "assets/images/hindi1.png",
+        "topics": [
+          {
+            "heading": "अनुच्छेद लेखन",
+            "content": [
+              "अनुच्छेद लेखन एक विषय पर अपने विचारों को छोटे रूप में व्यक्त करने का तरीका है।",
+              "इसमें मुख्य विचार एक ही पैराग्राफ में लिखा जाता है।"
+            ]
+          }
+        ],
+        "important": [
+          "अनुच्छेद में अनावश्यक बातों से बचना चाहिए।"
+        ]
+      },
+      "Lesson 4": {
+        "image": "assets/images/hindi1.png",
+        "topics": [
+          {
+            "heading": "वाक्य भेद",
+            "content": [
+              "वाक्य कई प्रकार के होते हैं, जैसे: सरल वाक्य, मिश्रित वाक्य और संयुक्त वाक्य।",
+              "सरल वाक्य में एक ही क्रिया होती है।"
+            ]
+          }
+        ],
+        "important": [
+          "वाक्य के प्रकारों को समझने से व्याकरण का ज्ञान बढ़ता है।"
+        ]
+      },
+      "Lesson 5": {
+        "image": "assets/images/hindi1.png",
+        "topics": [
+          {
+            "heading": "प्रत्यय और उपसर्ग",
+            "content": [
+              "उपसर्ग वे शब्दांश हैं जो किसी शब्द के आगे जुड़कर उसका अर्थ बदल देते हैं।",
+              "प्रत्यय वे शब्दांश हैं जो किसी शब्द के पीछे जुड़कर उसका अर्थ बदल देते हैं।"
+            ]
+          }
+        ],
+        "important": [
+          "जैसे: 'अ' + 'धर्म' = अधर्म (उपसर्ग)। 'समाज' + 'इक' = सामाजिक (प्रत्यय)।"
+        ]
+      }
+    }
+  },
+
+
+
+  "Class 6": {
+    "Math": {
+      "Lesson 1": {
+        "image": "assets/images/math1.png",
+        "topics": [
+          {
+            "heading": "Whole Numbers and Integers",
+            "content": [
+              "Whole numbers are numbers starting from 0, 1, 2, 3, and so on.",
+              "Integers include both positive and negative numbers, e.g., -3, -2, -1, 0, 1, 2."
+            ]
+          }
+        ],
+        "important": [
+          "Remember: Whole numbers don’t include negative values.",
+          "Practice placing integers on a number line."
+        ]
+      },
+      "Lesson 2": {
+        "image": "assets/images/math1.png",
+        "topics": [
+          {
+            "heading": "Fractions and Decimals",
+            "content": [
+              "Fractions represent parts of a whole, e.g., 1/2, 3/4.",
+              "Decimals are another way of writing fractions, e.g., 0.5 = 1/2."
+            ]
+          }
+        ],
+        "important": [
+          "Learn to convert fractions into decimals and vice versa."
+        ]
+      },
+      "Lesson 3": {
+        "image": "assets/images/math1.png",
+        "topics": [
+          {
+            "heading": "Geometry: Lines and Angles",
+            "content": [
+              "A line extends infinitely in both directions.",
+              "Angles are formed when two rays meet at a point.",
+              "Types of angles: acute (< 90°), right (90°), obtuse (> 90° but < 180°)."
+            ]
+          }
+        ],
+        "important": [
+          "Use a protractor to measure angles correctly."
+        ]
+      },
+      "Lesson 4": {
+        "image": "assets/images/math1.png",
+        "topics": [
+          {
+            "heading": "Mensuration: Area and Perimeter",
+            "content": [
+              "Perimeter is the boundary length of a shape.",
+              "Area is the space inside a shape.",
+              "Example: Area of rectangle = length × breadth."
+            ]
+          }
+        ],
+        "important": [
+          "Practice formulas of square, rectangle, triangle, and circle."
+        ]
+      },
+      "Lesson 5": {
+        "image": "assets/images/math1.png",
+        "topics": [
+          {
+            "heading": "Algebra: Using Symbols",
+            "content": [
+              "Algebra uses letters like x, y to represent numbers.",
+              "Example: x + 5 = 10 → x = 5."
+            ]
+          }
+        ],
+        "important": [
+          "Learn basic algebraic identities step by step."
+        ]
+      }
+    },
+    "Science": {
+      "Lesson 1": {
+        "image": "assets/images/science1.png",
+        "topics": [
+          {
+            "heading": "The Human Body: Organ Systems",
+            "content": [
+              "Our body has many systems like digestive, respiratory, circulatory, and nervous system.",
+              "Each system works together to keep us alive."
+            ]
+          }
+        ],
+        "important": [
+          "Eat healthy food and exercise to keep organ systems strong."
+        ]
+      },
+      "Lesson 2": {
+        "image": "assets/images/science1.png",
+        "topics": [
+          {
+            "heading": "Living Organisms and Adaptations",
+            "content": [
+              "Living organisms adapt to survive in their environment.",
+              "Example: Camels store water, polar bears have thick fur."
+            ]
+          }
+        ],
+        "important": [
+          "Adaptations help organisms survive extreme climates."
+        ]
+      },
+      "Lesson 3": {
+        "image": "assets/images/science1.png",
+        "topics": [
+          {
+            "heading": "Electricity and Circuits",
+            "content": [
+              "Electricity flows through a circuit.",
+              "A circuit needs a power source, wire, and device (like a bulb)."
+            ]
+          }
+        ],
+        "important": [
+          "Never touch live wires. Safety first!"
+        ]
+      },
+      "Lesson 4": {
+        "image": "assets/images/science1.png",
+        "topics": [
+          {
+            "heading": "Plants: Photosynthesis",
+            "content": [
+              "Plants make their food using sunlight, water, and carbon dioxide.",
+              "This process is called photosynthesis."
+            ]
+          }
+        ],
+        "important": [
+          "Plants are the main source of oxygen on Earth."
+        ]
+      },
+      "Lesson 5": {
+        "image": "assets/images/science1.png",
+        "topics": [
+          {
+            "heading": "The Solar System",
+            "content": [
+              "Our solar system has 8 planets revolving around the sun.",
+              "Earth is the only known planet with life."
+            ]
+          }
+        ],
+        "important": [
+          "Remember the order: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune."
+        ]
+      }
+    },
+    "GK": {
+      "Lesson 1": {
+        "image": "assets/images/gk1.png",
+        "topics": [
+          {
+            "heading": "World Geography",
+            "content": [
+              "There are 7 continents and 5 oceans on Earth.",
+              "India is in Asia, the largest continent."
+            ]
+          }
+        ],
+        "important": [
+          "Know capitals of important countries."
+        ]
+      },
+      "Lesson 2": {
+        "image": "assets/images/gk1.png",
+        "topics": [
+          {
+            "heading": "Great Leaders of India",
+            "content": [
+              "Mahatma Gandhi, Subhas Chandra Bose, and Dr. B.R. Ambedkar are some great leaders of India."
+            ]
+          }
+        ],
+        "important": [
+          "Respect leaders who fought for independence."
+        ]
+      },
+      "Lesson 3": {
+        "image": "assets/images/gk1.png",
+        "topics": [
+          {
+            "heading": "Indian States and Capitals",
+            "content": [
+              "India has 28 states and 8 union territories.",
+              "Example: Uttar Pradesh – Lucknow, Maharashtra – Mumbai."
+            ]
+          }
+        ],
+        "important": [
+          "Revise state and capital names regularly."
+        ]
+      },
+      "Lesson 4": {
+        "image": "assets/images/gk1.png",
+        "topics": [
+          {
+            "heading": "World Inventions",
+            "content": [
+              "The light bulb was invented by Thomas Edison.",
+              "The telephone was invented by Alexander Graham Bell."
+            ]
+          }
+        ],
+        "important": [
+          "Inventions changed the way humans live."
+        ]
+      },
+      "Lesson 5": {
+        "image": "assets/images/gk1.png",
+        "topics": [
+          {
+            "heading": "Important Festivals of the World",
+            "content": [
+              "Christmas, Eid, Diwali, Chinese New Year are celebrated worldwide."
+            ]
+          }
+        ],
+        "important": [
+          "Festivals bring people together and spread happiness."
+        ]
+      }
+    },
+    "Computer": {
+      "Lesson 1": {
+        "image": "assets/images/computer1.png",
+        "topics": [
+          {
+            "heading": "Introduction to Computers",
+            "content": [
+              "A computer processes data and gives useful information.",
+              "It works with hardware and software."
+            ]
+          }
+        ],
+        "important": [
+          "Understand difference between input, process, and output."
+        ]
+      },
+      "Lesson 2": {
+        "image": "assets/images/computer1.png",
+        "topics": [
+          {
+            "heading": "Operating System",
+            "content": [
+              "An OS is the main software that controls the computer.",
+              "Examples: Windows, Linux, macOS."
+            ]
+          }
+        ],
+        "important": [
+          "Without OS, computer cannot work."
+        ]
+      },
+      "Lesson 3": {
+        "image": "assets/images/computer1.png",
+        "topics": [
+          {
+            "heading": "MS Word Basics",
+            "content": [
+              "MS Word is used for typing and formatting documents.",
+              "We can change font, size, and add images."
+            ]
+          }
+        ],
+        "important": [
+          "Practice typing paragraphs in MS Word."
+        ]
+      },
+      "Lesson 4": {
+        "image": "assets/images/computer1.png",
+        "topics": [
+          {
+            "heading": "Internet and Web",
+            "content": [
+              "The internet connects computers worldwide.",
+              "Websites provide information and services."
+            ]
+          }
+        ],
+        "important": [
+          "Use the internet safely and avoid sharing personal details."
+        ]
+      },
+      "Lesson 5": {
+        "image": "assets/images/computer1.png",
+        "topics": [
+          {
+            "heading": "Basics of Coding",
+            "content": [
+              "Coding means giving instructions to a computer.",
+              "Examples of languages: Python, Scratch."
+            ]
+          }
+        ],
+        "important": [
+          "Coding improves problem-solving skills."
+        ]
+      }
+    },
+    "English": {
+      "Lesson 1": {
+        "image": "assets/images/english1.png",
+        "topics": [
+          {
+            "heading": "Parts of Speech",
+            "content": [
+              "Nouns, Pronouns, Verbs, Adjectives, Adverbs, Prepositions, Conjunctions, and Interjections."
+            ]
+          }
+        ],
+        "important": [
+          "Every sentence is made using different parts of speech."
+        ]
+      },
+      "Lesson 2": {
+        "image": "assets/images/english1.png",
+        "topics": [
+          {
+            "heading": "Tenses",
+            "content": [
+              "Tenses show time of action: Present, Past, Future.",
+              "Example: I play (Present), I played (Past), I will play (Future)."
+            ]
+          }
+        ],
+        "important": [
+          "Use correct tense for correct grammar."
+        ]
+      },
+      "Lesson 3": {
+        "image": "assets/images/english1.png",
+        "topics": [
+          {
+            "heading": "Active and Passive Voice",
+            "content": [
+              "Active: The boy kicked the ball.",
+              "Passive: The ball was kicked by the boy."
+            ]
+          }
+        ],
+        "important": [
+          "Active voice is direct; passive voice is indirect."
+        ]
+      },
+      "Lesson 4": {
+        "image": "assets/images/english1.png",
+        "topics": [
+          {
+            "heading": "Comprehension",
+            "content": [
+              "Comprehension means understanding a passage and answering questions."
+            ]
+          }
+        ],
+        "important": [
+          "Read the passage carefully before answering."
+        ]
+      },
+      "Lesson 5": {
+        "image": "assets/images/english1.png",
+        "topics": [
+          {
+            "heading": "Writing Skills",
+            "content": [
+              "Learn to write paragraphs, letters, and essays."
+            ]
+          }
+        ],
+        "important": [
+          "Practice writing daily to improve."
+        ]
+      }
+    },
+    "Hindi": {
+      "Lesson 1": {
+        "image": "assets/images/hindi1.png",
+        "topics": [
+          {
+            "heading": "संज्ञा (Noun)",
+            "content": [
+              "संज्ञा वह शब्द है जो किसी व्यक्ति, स्थान, वस्तु या भावना का बोध कराए।",
+              "उदाहरण: राम, स्कूल, किताब।"
+            ]
+          }
+        ],
+        "important": [
+          "संज्ञा को चार भागों में बाँटा जाता है – व्यक्तिवाचक, जातिवाचक, भाववाचक, द्रव्यवाचक।"
+        ]
+      },
+      "Lesson 2": {
+        "image": "assets/images/hindi1.png",
+        "topics": [
+          {
+            "heading": "सर्वनाम (Pronoun)",
+            "content": [
+              "जो शब्द संज्ञा के स्थान पर प्रयुक्त हो उसे सर्वनाम कहते हैं।",
+              "उदाहरण: वह, यह, तुम, हम।"
+            ]
+          }
+        ],
+        "important": [
+          "सर्वनाम वाक्य को सरल और सुंदर बनाता है।"
+        ]
+      },
+      "Lesson 3": {
+        "image": "assets/images/hindi1.png",
+        "topics": [
+          {
+            "heading": "काल (Tenses)",
+            "content": [
+              "काल से समय का पता चलता है।",
+              "भूतकाल, वर्तमानकाल और भविष्यकाल इसके मुख्य रूप हैं।"
+            ]
+          }
+        ],
+        "important": [
+          "सही काल का प्रयोग वाक्य को अर्थपूर्ण बनाता है।"
+        ]
+      },
+      "Lesson 4": {
+        "image": "assets/images/hindi1.png",
+        "topics": [
+          {
+            "heading": "वाक्य और प्रकार",
+            "content": [
+              "शब्दों का समूह जिससे कोई अर्थ निकलता है उसे वाक्य कहते हैं।",
+              "वाक्य के प्रकार – कथनात्मक, प्रश्नवाचक, विस्मयादिबोधक, आज्ञार्थक।"
+            ]
+          }
+        ],
+        "important": [
+          "प्रत्येक वाक्य का पहला अक्षर बड़ा होना चाहिए।"
+        ]
+      },
+      "Lesson 5": {
+        "image": "assets/images/hindi1.png",
+        "topics": [
+          {
+            "heading": "मुहावरे और लोकोक्तियाँ",
+            "content": [
+              "मुहावरे और लोकोक्तियाँ भाषा को रोचक बनाते हैं।",
+              "उदाहरण: आँख का तारा, घी के दीये जलना।"
+            ]
+          }
+        ],
+        "important": [
+          "मुहावरों का सही प्रयोग लेखन में सौंदर्य लाता है।"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,196 @@
+// content.dart
+import 'dart:convert';
+import 'package:flutter/material.dart';
+import 'package:flutter/services.dart' show rootBundle;
+import 'package:quiz_basic_app/pages/safe_scaffold.dart';
+import 'practice.dart'; // Make sure this is imported
+
+class LessonContentPage extends StatefulWidget {
+  final String className;
+  final String subject;
+  final String lesson;
+
+  LessonContentPage({
+    required this.className,
+    required this.subject,
+    required this.lesson,
+  });
+
+  @override
+  _LessonContentPageState createState() => _LessonContentPageState();
+}
+
+class _LessonContentPageState extends State<LessonContentPage> {
+  Map<String, dynamic>? lessonData;
+
+  @override
+  void initState() {
+    super.initState();
+    loadLessonContents();
+  }
+
+  Future<void> loadLessonContents() async {
+    try {
+      String jsonString = await rootBundle.loadString(
+        'assets/lesson_contents.json',
+      );
+      Map<String, dynamic> allData = jsonDecode(jsonString);
+
+      final data = allData[widget.className]?[widget.subject]?[widget.lesson];
+
+      setState(() {
+        lessonData =
+            data ??
+            {
+              "image": null,
+              "topics": [
+                {
+                  "heading": "Default Topic",
+                  "content": ["Content not found for this lesson."],
+                },
+              ],
+              "important": [],
+            };
+      });
+    } catch (e) {
+      print("Error loading lesson content: $e");
+      setState(() {
+        lessonData = {
+          "image": null,
+          "topics": [
+            {
+              "heading": "Error",
+              "content": ["Failed to load content."],
+            },
+          ],
+          "important": [],
+        };
+      });
+    }
+  }
+
+  @override
+  Widget build(BuildContext context) {
+    if (lessonData == null) {
+      return Scaffold(
+        appBar: AppBar(title: Text("${widget.subject} - ${widget.lesson}")),
+        body: Center(child: CircularProgressIndicator()),
+      );
+    }
+
+    String? image = lessonData!['image'];
+    List topics = lessonData!['topics'] ?? [];
+    List important = lessonData!['important'] ?? [];
+
+    return SafeScaffold(
+      
+     // backgroundColor: const Color.fromARGB(255, 243, 235, 233),
+      appBar: AppBar(
+        title: Text(
+          "${widget.subject} - ${widget.lesson}",
+          style: TextStyle(color: Colors.blueAccent, fontWeight: FontWeight.bold),
+        ),
+      ),
+      
+      body: SingleChildScrollView(
+        padding: const EdgeInsets.all(16.0),
+        child: Column(
+          crossAxisAlignment: CrossAxisAlignment.start,
+          children: [
+            if (image != null)
+            Center(
+  child: Image.asset(
+    image,
+    height: 250,
+    width: double.infinity,
+    fit: BoxFit.contain, // Is line ko badal diya gaya hai
+  ),
+),
+         
+              // Center(
+              //   child: Image.asset(
+              //     image,
+              //     height: 250,
+              //     width: double.infinity,
+              //     fit: BoxFit.cover,
+              //   ),
+              // ),
+            const SizedBox(height: 16),
+            ...topics.map((topic) {
+              return Column(
+                crossAxisAlignment: CrossAxisAlignment.start,
+                children: [
+                  Text(
+                    topic["heading"],
+                    style: const TextStyle(
+                      fontSize: 20,
+                      fontWeight: FontWeight.bold,
+                      color: Colors.deepPurple,
+                    ),
+                  ),
+                  const SizedBox(height: 8),
+                  ...List<String>.from(topic["content"]).map(
+                    (line) => Padding(
+                      padding: const EdgeInsets.symmetric(vertical: 4.0),
+                      child: Text(line, style: const TextStyle(fontSize: 16)),
+                    ),
+                  ),
+                ],
+              );
+            }).toList(),
+            const SizedBox(height: 16),
+            if (important.isNotEmpty)
+              Column(
+                crossAxisAlignment: CrossAxisAlignment.start,
+                children: [
+                  Text(
+                    "Important Points",
+                    style: TextStyle(
+                      fontSize: 20,
+                      fontWeight: FontWeight.bold,
+                      color: Colors.red,
+                    ),
+                  ),
+                  SizedBox(height: 8),
+                  ...important.map(
+                    (point) => Padding(
+                      padding: const EdgeInsets.symmetric(vertical: 4.0),
+                      child: Row(
+                        children: [
+                          Icon(Icons.star, size: 16, color: Colors.orange),
+                          SizedBox(width: 6),
+                          Expanded(
+                            child: Text(point, style: TextStyle(fontSize: 16)),
+                          ),
+                        ],
+                      ),
+                    ),
+                  ),
+                ],
+              ),
+            const SizedBox(height: 80),
+          ],
+        ),
+      ),
+      floatingActionButton: FloatingActionButton.extended(
+        onPressed: () {
+          Navigator.push(
+            context,
+            MaterialPageRoute(
+              builder: (_) => PracticePage(
+                className: widget.className,
+                subject: widget.subject,
+                lesson: widget.lesson,
+              ),
+            ),
+          );
+        },
+        label: Text("Start Quiz"),
+        icon: Icon(Icons.quiz),
+        backgroundColor: const Color.fromARGB(255, 56, 235, 116),
+        foregroundColor: Colors.white,
+      ),
+    );
+    
+  }
+}
