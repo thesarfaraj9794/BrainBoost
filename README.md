@@ -1,4 +1,4 @@
-# quiz_basic_app
+# education App
 
 A new Flutter project.
 
